@@ -1,0 +1,78 @@
+body{
+    position: relative;
+    
+}
+
+h1,h2,p{
+    text-align: center;
+    color: black
+}
+
+.panel-body{
+    color: brown; 
+}
+.project-text{
+    color: gray;
+}
+.gray-text{
+    color: gray;
+}
+
+.me{
+    width: 250px;
+    height: 250px;
+    margin-top: 150px;
+    margin-bottom: 20px;
+    border-width: 3px;
+    border-style: groove;
+    border-color: cadetblue;
+}
+.displayed{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.social{
+    padding-top: 10px;
+}
+.navbar-header{
+    padding-left: 10px;
+}
+navbar-right{
+    padding-right: 10px;
+}
+.home{
+    position: relative;
+    min-height: 100vh;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color:#fff;
+    background-image: url(https://tau0.files.wordpress.com/2015/04/nevada_endless_road_bw.jpg);
+    
+}
+.experience {
+min-height: 100vh;
+padding-top: 10%;
+padding-bottom: 10%;
+color: #fff;
+background-image: url(http://img1.goodfon.su/original/1440x900/1/e4/sony-xperia-z3-stock-6246.jpg);
+}
+.portfolio {
+min-height: 100vh;
+padding-top: 10%;
+padding-bottom: 10%;
+color: #fff;
+background-image: url(http://musback.com/wp-content/uploads/1440x900_minimal_design_wallpaper_by_Musback.jpg);
+}
+.contact {
+min-height: 100vh;
+padding-top: 10%;
+padding-bottom: 50px;
+color: #fff;
+background-image: url(https://static1.squarespace.com/static/56a297da05f8e2697ef3d650/t/56a64f8e89a60a5d20eecd41/1453739920585/background.jpg?format=1500w);
+}
+.contact-info {
+max-width: 80vh;
+min-height: 60vh;
+margin: auto;
+}
